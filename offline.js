@@ -1,0 +1,33 @@
+﻿{
+	"version": 1664748457,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/tile-sheet0.png",
+		"images/you-sheet0.png",
+		"images/you-sheet1.png",
+		"images/tile2-sheet0.png",
+		"images/point-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/timer-sheet0.png",
+		"images/timer-sheet1.png",
+		"images/timer2-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/sprite2-sheet0.png",
+		"images/tiledbackground3.png",
+		"images/tiledbackground4.png",
+		"images/spritefont.png",
+		"images/tiledbackground5.png",
+		"media/main.m4a",
+		"media/main.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
